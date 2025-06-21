@@ -1,2 +1,3 @@
 nombre   fecha   rama  
-alfonso   21/06/25 desarrollo
+alfonso   21/06/25 funcionalidad
+
